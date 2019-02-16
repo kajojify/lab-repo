@@ -1,3 +1,6 @@
 Hello world!
 \nHello world 2!
 Hello, new feature
+
+
+I am a conflict commit! 
